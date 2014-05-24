@@ -1,5 +1,5 @@
 var React = require('react'),
-    ListeLiens = require('./liste_liens.jsx');
+    ListeLiens = require('./../components/liste_liens');
 
 module.exports = React.createClass({
   getDefaultProps: function() {
