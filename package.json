@@ -1,0 +1,12 @@
+{
+  "name": "ap-react-components",
+  "version": "0.0.1",
+  "description": "Composantes React pour mes projets.",
+  "author": "Antoine Proulx",
+  "dependencies": {
+    "envify": "^1.2.1",
+    "react": "^0.10.0",
+    "react-async": "^0.9.2",
+    "react-router-component": "^0.18.3"
+  }
+}
